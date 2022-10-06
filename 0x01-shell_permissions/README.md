@@ -1,1 +1,1 @@
-the scripts in this folder describes the project
+each script in this project describes the project
